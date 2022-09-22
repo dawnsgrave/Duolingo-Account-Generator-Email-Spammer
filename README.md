@@ -3,4 +3,4 @@ Makes accounts on duolingo also sending verification requests to your desired em
 
 ------
 
-rushed af dont give me hate
+After running this 24/7 for a month, duolingo finally decided to patch it
